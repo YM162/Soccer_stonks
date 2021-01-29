@@ -1,5 +1,5 @@
 # Soccer_stonks
-Diversos exploits y automatizaciones para el juego soccer stars
+Diversos exploits y automatizaciones para el juego soccer stars.
 
 1. Estrellas infinitas:
   Aprovechando un error a nivel de servidor en el procesamiento de la request de finalización de entreno, podemos obtener
