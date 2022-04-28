@@ -1,0 +1,11 @@
+Stonks
+Def Stonks 1
+Def Stonks 2
+Def Stonks 3
+Mid Stonks 1
+Mid Stonks 2
+Mid Stonks 3
+Mid Stonks 4
+Str Stonks 1
+Str Stonks 2
+Str Stonks 3
